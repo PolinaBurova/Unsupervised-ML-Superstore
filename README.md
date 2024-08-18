@@ -35,9 +35,11 @@ We then proceeded with the analysis to understand the characteristics of the clu
 The clustering analysis identified two main customer segments:
 
 * **Cluster 0:** 833 customers (38%)
+
 This cluster generally consists of older individuals who exhibit higher overall spending across various purchasing channels, with a particular focus on products like wine and meat. They tend to have a higher education level, are more likely to be divorced, and often have teenagers at home.
 
 * **Cluster 1:** 1364 customers (62%)
+
 This cluster is generally composed of younger individuals with more focused spending patterns, particularly on deals and specific product categories such as fish, fruits, and sweets. They also have a higher rate of web visits per month, but less purchases. They are more likely to be single and/or married, and have young children at home.
 
 ### Ways to further improve the model:
