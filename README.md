@@ -45,7 +45,9 @@ This cluster is generally composed of younger individuals with more focused spen
 The low silhouette score (0.23) indicates that while there is some structure in the data, the clusters are not highly distinct. This can be attributed to several factors:
 
 **Overlap in Feature Space:** The features used may have significant overlap between clusters, making it hard to distinguish them clearly.
+
 **Intrinsic Data Variability:** The inherent variability in customer behavior and demographics can contribute to less clear-cut clusters.
+
 **Small Dataset Size:** With only around 2,200 rows, the dataset may not provide enough data points to form well-separated clusters. A larger dataset might reveal more distinct groupings.
 
 Despite the low silhouette score, the clustering analysis provides valuable insights into customer segmentation, helping to identify distinct groups based on spending patterns and demographics. This can be useful for targeted marketing strategies and personalized customer engagement.
