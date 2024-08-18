@@ -11,7 +11,7 @@ This project segments customers into distinct groups based on their purchasing b
 
 ### Approach
 
-The analysis involved exploring and cleaning the dataset, followed by feature engineering and preprocessing to prepare the data. Various clustering techniques, including K-Means, were then applied to segment customers based on their purchasing behavior and demographics.
+The analysis involved exploring and cleaning the dataset, followed by feature engineering and preprocessing to prepare the data. Various clustering techniques, including K-Means, Hierchical Clustering and DBSCAN, were then applied to segment customers based on their purchasing behavior and demographics.
 
 ### Model Selection
 
