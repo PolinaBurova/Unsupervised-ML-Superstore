@@ -28,7 +28,7 @@ We then proceeded with the analysis to understand the characteristics of the clu
 
 * **Algorithm Used:** K-Means Clustering
 * **Number of Clusters:** 2
-* **Silhouette Score:** 0.24
+* **Silhouette Score:** 0.23
 
 ![KMeans](https://github.com/PolinaBurova/Unsupervised-ML-Superstore/blob/main/notebooks/clusters.png)
 
