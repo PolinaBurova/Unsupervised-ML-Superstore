@@ -17,7 +17,7 @@ The analysis involved exploring and cleaning the dataset, followed by feature en
 
 K-Means, chosen for its simplicity and effectiveness, was identified as the best-performing model with the highest silhouette score of 0.23, optimally segmenting the data into two clusters.
 
-
+![KMeans](https://github.com/PolinaBurova/Unsupervised-ML-Superstore/blob/main/notebooks/KMeans.png)
 
 
 ### Key Results
@@ -30,15 +30,14 @@ We then proceeded with the analysis to understand the characteristics of the clu
 * **Number of Clusters:** 2
 * **Silhouette Score:** 0.24
 
-* **Cluster 0:** 833 customers (38%)
-* **Cluster 1:** 1364 customers (62%)
+![KMeans](https://github.com/PolinaBurova/Unsupervised-ML-Superstore/blob/main/notebooks/clusters.png)
 
 The clustering analysis identified two main customer segments:
 
-* **Cluster 0:**
+* **Cluster 0:** 833 customers (38%)
 This cluster generally consists of older individuals who exhibit higher overall spending across various purchasing channels, with a particular focus on products like wine and meat. They tend to have a higher education level, are more likely to be divorced, and often have teenagers at home.
 
-* **Cluster 1:**
+* **Cluster 1:** 1364 customers (62%)
 This cluster is generally composed of younger individuals with more focused spending patterns, particularly on deals and specific product categories such as fish, fruits, and sweets. They also have a higher rate of web visits per month, but less purchases. They are more likely to be single and/or married, and have young children at home.
 
 ### Ways to further improve the model:
