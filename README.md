@@ -2,7 +2,7 @@
 
 ### Customer Segmentation Analysis
 
-This project segments customers into distinct groups based on their purchasing behaviors and demographic characteristics using clustering algorithms like K-Means and Hierarchical Clustering. The analysis reveals different customer profiles, enabling more targeted marketing strategies, better customer understanding, and improved business decisions.
+This project segments 2,197 customers into distinct groups based on their purchasing behaviors and demographic characteristics using clustering algorithms like K-Means and Hierarchical Clustering. The analysis reveals different customer profiles, enabling more targeted marketing strategies, better customer understanding, and improved business decisions.
 
 ## Project Structure
 
